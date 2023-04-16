@@ -1,0 +1,2 @@
+**Sentiment Analysis on 5000 Tweets Related to Artificial Intelligence**
+This project is a sentiment analysis of 5000 tweets related to artificial intelligence, performed using the Python programming language and the TextBlob library. The purpose of this analysis is to gain insights into how people on Twitter feel about artificial intelligence and its various applications and implications.
